@@ -1,12 +1,16 @@
 ### Hi there 👋 I'm Dan
-## Welcome to my profile
+:computer: I am currently working on my project: [world2d](https://github.com/WhoIsDanix/world2d)
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### Skill-set
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhoIsDanix)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhoIsDanix)](https://github.com/anuraghazra/github-readme-stats)
-
-cat :3
-
-![](https://c.tenor.com/zAHCPvoyjNIAAAAC/yay-kitty.gif)
+### Github States
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=WhoIsDanix&count_private=true&show_icons=true&theme=apprentice" alt="Github states"> 
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhoIsDanix&exclude_repo=WhoIsDanix.github.io&layout=compact&theme=apprentice" alt="Top langs">
+</p>
