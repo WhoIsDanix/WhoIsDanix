@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on **my custom programming language**
 - 🌱 I’m currently learning **how to code better**
 - ⚡ Fun fact: i'm stupid
+- 🌐 If you want to contact me, here's my Discord: @danix_dude
 
 <h3>⭐ Languages and tools</h3>
 
